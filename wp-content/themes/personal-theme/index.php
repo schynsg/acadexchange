@@ -38,19 +38,19 @@
         <h2 class="actions__h2"></h2>
         <ul class="actions__list">
             <li class="action">
-                <a href="./donation.html" class="donation">
+                <a href="./html/donation.html" class="donation">
                     <img src="./img/donationicon.jpg" alt="Donation">
                     <p>Donation</p>
                 </a>
             </li>
             <li class="action">
-                <a href="./getequipment.html" class="getequipment">
+                <a href="./html/getequipment.html" class="getequipment">
                     <img src="./img/geticon.jpg" alt="Get equipment">
                     <p>Get equipment</p>
                 </a>
             </li>
             <li class="action">
-                <a href="./twinning.html" class="twinning">
+                <a href="./html/twinning.html" class="twinning">
                     <img src="./img/twinningicon.jpg" alt="Donation">
                     <p>Donation</p>
                 </a>

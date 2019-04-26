@@ -19,19 +19,19 @@
                     <a href="./index.html">Home</a>
                 </li>
                 <li>
-                    <a href="./about.html">About</a>
+                    <a href="./html/about.html">About</a>
                 </li>
                 <li>
-                    <a href="./donation.html">Donation</a>
+                    <a href="./html/donation.html">Donation</a>
                 </li>
                 <li>
-                    <a href="getequipment.html">Get equipment</a>
+                    <a href="./html/getequipment.html">Get equipment</a>
                 </li>
                 <li>
-                    <a href="./twinning.html">Academy twinning</a>
+                    <a href="./html/twinning.html">Academy twinning</a>
                 </li>
                 <li class="log-in">
-                    <a href="./login.html">Log in</a>
+                    <a href="./html/login.html">Log in</a>
                 </li>
             </ul>
         </nav>
